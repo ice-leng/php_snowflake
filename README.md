@@ -1,6 +1,5 @@
 # php_snowflake
 
-[中文文档](https://github.com/Sxdd/php_snowflake/wiki/%E4%B8%AD%E6%96%87%E6%96%87%E6%A1%A3)
 ## What is php_snowflake?
 
 Twitter distributed ID generating Algorithm [SnowFlake](https://github.com/twitter/snowflake) PHP implementation version.
